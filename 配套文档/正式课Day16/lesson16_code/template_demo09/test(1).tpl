@@ -1,0 +1,2 @@
+
+Today is {{ . | fdate }}.
